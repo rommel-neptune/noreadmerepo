@@ -1,0 +1,70 @@
+{
+	"id": "3e575852-1d31-49e1-952a-97f058447ec9",
+	"createdAt": "2024-10-16T20:12:16.713Z",
+	"createdBy": "admin",
+	"git": {
+		"remote": "https://github.com/rommel-neptune/noreadmerepo"
+	},
+	"name": "P9New Package",
+	"description": null,
+	"ver": "24.10.16.2017",
+	"enableCICD": true,
+	"internalReadOnly": false,
+	"excludeTemplateFiles": false,
+	"roles": [],
+	"apps": [],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [
+		{
+			"id": "9c778b05-93c3-45eb-b3b1-a2b204a2b42e",
+			"name": "P9 New Global Style",
+			"description": null
+		}
+	],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"tile_layout": [
+		{
+			"id": "2ff4d02d-76ef-4b8b-8e45-a7d9d6320025",
+			"NAME": "P9New Tile Layout"
+		}
+	],
+	"category": [],
+	"tilegroup_layout": [
+		{
+			"id": "8663618c-c589-4e99-839e-ac82d06799db",
+			"NAME": "P9New Tile Group Layout"
+		}
+	],
+	"launchpad": [],
+	"launchpad_layout": [
+		{
+			"id": "4d4b7543-8c33-4b2d-acd6-19248d9fe084",
+			"NAME": "P9New Launchpad Layout",
+			"DESCR": null
+		}
+	],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": [],
+	"theme_ui5": []
+}
