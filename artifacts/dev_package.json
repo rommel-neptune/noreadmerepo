@@ -3,13 +3,15 @@
 	"createdAt": "2024-10-16T20:12:16.713Z",
 	"createdBy": "admin",
 	"git": {
-		"remote": "https://github.com/rommel-neptune/noreadmerepo"
+		"remote": "https://github.com/rommel-neptune/noreadmerepo",
+		"branch": "master"
 	},
 	"name": "P9New Package",
 	"description": null,
-	"ver": "24.10.16.2017",
+	"ver": "25.09.18.0935",
 	"enableCICD": true,
 	"internalReadOnly": false,
+	"oeVersion": null,
 	"excludeTemplateFiles": false,
 	"roles": [],
 	"apps": [],
@@ -28,7 +30,14 @@
 	],
 	"pdf": [],
 	"rulesengine": [],
-	"reports": [],
+	"reports": [
+		{
+			"id": "d530a27f-e818-4cd8-80e8-ab7076a989bd",
+			"name": "VOTERS_LIST_NEW",
+			"description": "",
+			"application": "neptunedxp_adaptive_list"
+		}
+	],
 	"api_authentication": [],
 	"api_group": [],
 	"tile": [],
@@ -38,15 +47,67 @@
 			"NAME": "P9New Tile Layout"
 		}
 	],
-	"category": [],
+	"category": [
+		{
+			"id": "baef7143-e9b1-4dcb-bf8c-9187ed48a8c5",
+			"description": null,
+			"name": "TGIvana"
+		},
+		{
+			"id": "b73e03aa-b759-456e-a847-26ce0dad5958",
+			"description": "Description Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since ",
+			"name": "Testing"
+		},
+		{
+			"id": "af279caa-aa8b-4847-8d41-b3006c7e4fa8",
+			"description": "Description 0 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since  Description 0 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since ",
+			"name": "Ivana_o.O_TeleGroup test upgrade - Copy"
+		},
+		{
+			"id": "a5bb8cd7-6216-4ed1-a988-e631558f2ee3",
+			"description": "Description 0 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since ",
+			"name": "Ivana_o.O_TeleGroup - Copy"
+		},
+		{
+			"id": "46c0ecdd-b1af-4888-a0f6-ee877256bb3e",
+			"description": "Sub title 0 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since ",
+			"name": "Group12.03"
+		},
+		{
+			"id": "408a0168-e35e-49d4-a570-2e83ec319644",
+			"description": "Description 0 Lorem Ipsum is simply dummy t",
+			"name": "Ivana_o.O_TeleGroup "
+		}
+	],
 	"tilegroup_layout": [
 		{
 			"id": "8663618c-c589-4e99-839e-ac82d06799db",
-			"NAME": "P9New Tile Group Layout"
+			"NAME": "Ivana_P9New Tile Group Layout"
 		}
 	],
-	"launchpad": [],
+	"launchpad": [
+		{
+			"id": "be26b499-2846-40b0-9f52-36bc80c299cc",
+			"name": "Launchpad-for-reTest-4818",
+			"description": "front Description 0 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since "
+		},
+		{
+			"id": "625b6cb2-3f62-4aa2-9ef5-2edef3b92a64",
+			"name": "LaunchpadRetest20.03",
+			"description": null
+		},
+		{
+			"id": "509c3629-1f71-4158-af63-20031a19c681",
+			"name": "ReTest",
+			"description": null
+		}
+	],
 	"launchpad_layout": [
+		{
+			"id": "64263e9b-4cd4-4601-be28-44b3bfd61de9",
+			"NAME": "test 18.02",
+			"DESCR": null
+		},
 		{
 			"id": "4d4b7543-8c33-4b2d-acd6-19248d9fe084",
 			"NAME": "P9New Launchpad Layout",
@@ -57,14 +118,51 @@
 	"role": [],
 	"systems": [],
 	"doc": [],
-	"wf_notifications": [],
+	"wf_notifications": [
+		{
+			"id": "e9ac43f2-2196-4a2b-bf39-e1509c97b094",
+			"name": "Rommel Template",
+			"description": "{i18n.QAModel>ButtonText}"
+		},
+		{
+			"id": "09f89703-0ecb-490d-9621-6ee0e016a705",
+			"name": "Test and Verification Template",
+			"description": "{i18n.TestAndVerificationModel>EmailSubject.ServerScript}"
+		}
+	],
 	"department": [],
 	"script_scheduler": [],
 	"wf_definition": [],
 	"connector": [],
+	"i18n": [
+		{
+			"id": "47595a0b-1022-423f-ba39-39d5b944f840",
+			"name": "TestAndVerificationModel",
+			"description": null
+		}
+	],
 	"events": [],
 	"code_snippets": [],
 	"wf_determination": [],
 	"wf_taskaction": [],
-	"theme_ui5": []
+	"theme_ui5": [],
+	"webapp": [
+		{
+			"id": "800b8108-769d-40ba-8fc9-d7bce159a202",
+			"name": "QA2402retesnewfromtoday",
+			"description": null
+		},
+		{
+			"id": "7c72b9c9-9314-4ddc-b83b-e8cd5ee6f674",
+			"name": "NewWebAppManager2003",
+			"description": null
+		}
+	],
+	"ui5_control": [
+		{
+			"id": "48cb0f6b-5a20-4226-93ec-b98885b2210a",
+			"name": "radioButton",
+			"description": null
+		}
+	]
 }
