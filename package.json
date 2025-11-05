@@ -1,7 +1,7 @@
 {
-  "name": "P9NewPackage",
+  "name": "test-repo",
   "version": "1.0.0",
-  "description": "P9New Package",
+  "description": "test-repo",
   "author": "Neptune Software",
   "license": "LicenseRef-LICENSE",
   "private": true,
