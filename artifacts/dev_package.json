@@ -7,8 +7,8 @@
 		"branch": "master"
 	},
 	"name": "test-repo",
-	"description": "",
-	"ver": "25.11.05.1538",
+	"description": "Test",
+	"ver": "25.11.05.1542",
 	"enableCICD": true,
 	"internalReadOnly": false,
 	"oeVersion": null,
@@ -24,7 +24,13 @@
 	"theme": [],
 	"theme_generator": [],
 	"pdf": [],
-	"rulesengine": [],
+	"rulesengine": [
+		{
+			"id": "1f55a52a-5eba-f011-8194-0022489bf196",
+			"name": "sdgsdgdsg",
+			"description": ""
+		}
+	],
 	"reports": [],
 	"api_authentication": [],
 	"api_group": [],
