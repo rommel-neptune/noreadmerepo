@@ -8,7 +8,7 @@
 	},
 	"name": "P9New Package",
 	"description": null,
-	"ver": "26.11.11.1909",
+	"ver": "26.11.11.1914",
 	"enableCICD": true,
 	"internalReadOnly": false,
 	"oeVersion": null,
@@ -57,7 +57,13 @@
 		}
 	],
 	"certificates": [],
-	"role": [],
+	"role": [
+		{
+			"id": "df8cab83-01de-f111-bf59-000d3ab84eb1",
+			"name": "Neptune-Automation-Role-01-1001-C100",
+			"description": ""
+		}
+	],
 	"systems": [],
 	"doc": [],
 	"wf_notifications": [],
